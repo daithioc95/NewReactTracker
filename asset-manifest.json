@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewReactTracker/static/css/main.8ea2b8c5.chunk.css",
+    "main.js": "/NewReactTracker/static/js/main.743b4253.chunk.js",
+    "main.js.map": "/NewReactTracker/static/js/main.743b4253.chunk.js.map",
+    "runtime-main.js": "/NewReactTracker/static/js/runtime-main.9d6a46ea.js",
+    "runtime-main.js.map": "/NewReactTracker/static/js/runtime-main.9d6a46ea.js.map",
+    "static/js/2.e35cb0d5.chunk.js": "/NewReactTracker/static/js/2.e35cb0d5.chunk.js",
+    "static/js/2.e35cb0d5.chunk.js.map": "/NewReactTracker/static/js/2.e35cb0d5.chunk.js.map",
+    "static/js/3.313667e4.chunk.js": "/NewReactTracker/static/js/3.313667e4.chunk.js",
+    "static/js/3.313667e4.chunk.js.map": "/NewReactTracker/static/js/3.313667e4.chunk.js.map",
+    "index.html": "/NewReactTracker/index.html",
+    "static/css/main.8ea2b8c5.chunk.css.map": "/NewReactTracker/static/css/main.8ea2b8c5.chunk.css.map",
+    "static/js/2.e35cb0d5.chunk.js.LICENSE.txt": "/NewReactTracker/static/js/2.e35cb0d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d6a46ea.js",
+    "static/js/2.e35cb0d5.chunk.js",
+    "static/css/main.8ea2b8c5.chunk.css",
+    "static/js/main.743b4253.chunk.js"
+  ]
+}
